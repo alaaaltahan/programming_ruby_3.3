@@ -1,1 +1,5 @@
 #this is notes about programming ruby 3.3 
+notes on ruby 2.0 :
+ruby 1.9 2.0 : ch 16 namespaces after ch 14 in ruby 3.00
+ch 17 character encoding ch 14 in ruby 3.00
+ch22 before ch20 at part 3
