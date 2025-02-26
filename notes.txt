@@ -1,0 +1,1 @@
+#this is notes about programming ruby 3.3 
